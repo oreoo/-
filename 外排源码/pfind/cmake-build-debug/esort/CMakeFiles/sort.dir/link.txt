@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -Wall -O2 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/sort.dir/cmd/sort.o CMakeFiles/sort.dir/float.o CMakeFiles/sort.dir/__/util/file.o CMakeFiles/sort.dir/__/util/param.o CMakeFiles/sort.dir/__/util/ui.o  -o sort 

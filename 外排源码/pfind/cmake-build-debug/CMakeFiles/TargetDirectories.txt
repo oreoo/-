@@ -1,0 +1,5 @@
+/Users/weizh_coco/Documents/外排源码-谭永卿/pfind/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/weizh_coco/Documents/外排源码-谭永卿/pfind/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/weizh_coco/Documents/外排源码-谭永卿/pfind/cmake-build-debug/esort/CMakeFiles/rebuild_cache.dir
+/Users/weizh_coco/Documents/外排源码-谭永卿/pfind/cmake-build-debug/esort/CMakeFiles/edit_cache.dir
+/Users/weizh_coco/Documents/外排源码-谭永卿/pfind/cmake-build-debug/esort/CMakeFiles/sort.dir
